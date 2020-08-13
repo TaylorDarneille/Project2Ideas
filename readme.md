@@ -9,9 +9,9 @@ Review the [Project 2 requirements](https://tmdarneille.gitbook.io/sei-ga-sea/11
 In this space below, list **THREE** ideas for your Project 2. For each idea, include [user stories](https://revelry.co/user-stories-that-dont-suck/) for each idea and a link to the API(s) you want to use for it.
 
 --------------------------------------------------------
-1. 
-2. 
-3.
+1. Photobooth webpage(for my cousin)
+2. Retirement Home
+3. Freemason lodge website
 ---------------------------------------------------------
 
 Make a PR when you're done!
