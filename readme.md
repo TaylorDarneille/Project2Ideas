@@ -9,9 +9,9 @@ Review the [Project 2 requirements](https://tmdarneille.gitbook.io/sei-ga-sea/11
 In this space below, list **THREE** ideas for your Project 2. For each idea, include [user stories](https://revelry.co/user-stories-that-dont-suck/) for each idea and a link to the API(s) you want to use for it.
 
 --------------------------------------------------------
-1. 
-2. 
-3.
+1. Air Quality app: Breezometer(free for 14 days) api gets air quality data via lat/long coords. Need another api to convert location to coords(locationIQ?).
+2. recipie book app: spoontacular api (look up recipies by allergies or by what is in the fridge)
+3. how to care for my plants app: (make watering schedule, calander to see all, trouble shooting links)
 ---------------------------------------------------------
 
 Make a PR when you're done!
