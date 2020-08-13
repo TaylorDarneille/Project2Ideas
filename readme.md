@@ -10,15 +10,19 @@ In this space below, list **THREE** ideas for your Project 2. For each idea, inc
 
 --------------------------------------------------------
 1. Classical Music Album Rating App
-* As a user I would like to discover Classical music albums.
-* As a user I waould like to save these albums to my favorite albums, rate them, and share them.
+* As a user I would like to discover Classical Music Pieces.
+* As a user I waould like to save these pieces to my favorite albums, rate them, and share them.
+API`https://github.com/openopus-org/openopus_api`
 2. Beer Rating app
 * As a User I want to discover new beers.
 * As user after I dicover my my favorite beers I would like to save them, and review them, and comment on them.
+API `https://rapidapi.com/theapiguy/api/the-cocktail-db`
 3. Music Theory Basics App
 * As a User, I would like to learn primary music theoy.
 * As User I would like to search for music glossary terms
 * As a User I would like the content to challenge me as I learn
+API`https://www.programmableweb.com/api/hooktheory`
+
 ---------------------------------------------------------
 
 Make a PR when you're done!
