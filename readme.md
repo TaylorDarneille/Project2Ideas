@@ -9,9 +9,16 @@ Review the [Project 2 requirements](https://tmdarneille.gitbook.io/sei-ga-sea/11
 In this space below, list **THREE** ideas for your Project 2. For each idea, include [user stories](https://revelry.co/user-stories-that-dont-suck/) for each idea and a link to the API(s) you want to use for it.
 
 --------------------------------------------------------
-1. 
-2. 
-3.
+1. Classical Music Album Rating App
+* As a user I would like to discover Classical music albums.
+* As a user I waould like to save these albums to my favorite albums, rate them, and share them.
+2. Beer Rating app
+* As a User I want to discover new beers.
+* As user after I dicover my my favorite beers I would like to save them, and review them, and comment on them.
+3. Music Theory Basics App
+* As a User, I would like to learn primary music theoy.
+* As User I would like to search for music glossary terms
+* As a User I would like the content to challenge me as I learn
 ---------------------------------------------------------
 
 Make a PR when you're done!
