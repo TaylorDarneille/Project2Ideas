@@ -9,9 +9,9 @@ Review the [Project 2 requirements](https://tmdarneille.gitbook.io/sei-ga-sea/11
 In this space below, list **THREE** ideas for your Project 2. For each idea, include [user stories](https://revelry.co/user-stories-that-dont-suck/) for each idea and a link to the API(s) you want to use for it.
 
 --------------------------------------------------------
-1. 
-2. 
-3.
+1. Tutor app. When a user searches for a tutor, it will instantly connect them with tutors online and in their local area.
+2. Mental health app. When a user searches for mental support groups, or psychiatric help it will connect them with local support and online support.
+3. Software development start up app. When a user wants to be involed in a start up/development project they can search for start ups and non profits to offer their services to.
 ---------------------------------------------------------
 
 Make a PR when you're done!
