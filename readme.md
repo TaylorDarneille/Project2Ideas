@@ -33,10 +33,12 @@ In the space below:
 
 ----------------------------------------------------------
 ### ERD
-
+https://drive.google.com/file/d/1YIgo8KX0hFqoa9Zmj12QdN8oKx5xVk-n/view?usp=sharing
 ----------------------------------------------------------
 ### User Stories
-
+I want to create a beautiful and simple website for users to track upcoming Jordan sneaker releases. As of this moment, there are no API's for this so I plan one
+scraping the release information from sneaker websites. I want to tie in the Sneaker Database API to provide history about the shoes being released (since most of 
+them are reoccuring shoes with different colorways), how to buy them, and images of people wearing them.
 ----------------------------------------------------------
 ### Wireframes
 
