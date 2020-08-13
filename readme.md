@@ -9,22 +9,10 @@ Review the [Project 2 requirements](https://tmdarneille.gitbook.io/sei-ga-sea/11
 In this space below, list **THREE** ideas for your Project 2. For each idea, include [user stories](https://revelry.co/user-stories-that-dont-suck/) for each idea and a link to the API(s) you want to use for it.
 
 --------------------------------------------------------
-1. An automatic email sender for when my roommate gets a new linkedin connection or has to send mass emails to people on his contact list.
-[Nodemailer Site](https://nodemailer.com/about/)
-[Nodemailer Plugins](https://nodemailer.com/plugins/)
-This could possibly use the nodemailer plugin and the nodemailer plugin.
-My roommate would be able to scrape the email and automatically send an email to a provided email through their Linkedin, if an email is provided.
-My roommate would potentially be able to send mass emails to people on his contact list using a simple script as well, might work on that on the side.
-2. A slideshow remote.
-[Google Slides API](https://developers.google.com/slides)
-[MDN Presentation API](https://developer.mozilla.org/en-US/docs/Web/API/Presentation_API)
-A user would be able to remotely control a slideshow from their phone to their computer.
-A user would swipe left or right to go through the slides.
-A user would possibly be able to move up and down on a page, maybe even control their whole window with it through their phone.
-3. An app where you list no longer used computer parts that you're willing to give away for free.  
-A user would be able to list parts for view by potential new owners.
-A user would be able to facilitate mailing of parts through the website, perhaps through UPS or FEDEX pickup, maybe even USPS if they don't kill the postal service. :(
-A user would be able to browse parts and select as needed, maybe listing what they already have for parts to check for compatibility.
+1. i literally have no idea. i have been thinking about this for two weeks.
+i think i want to do something art related, and the met has an API
+https://metmuseum.github.io/
+but i honestly have no inspiration. 
 ---------------------------------------------------------
 
 Make a PR when you're done!
