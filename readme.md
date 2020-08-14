@@ -39,12 +39,18 @@ In the space below:
 
 ----------------------------------------------------------
 ### ERD
+Link: https://drive.google.com/file/d/11LEb-omNQcTzm9VshVkEJlodRLQwnbty/view?usp=sharing
 
 ----------------------------------------------------------
 ### User Stories
 
 ----------------------------------------------------------
 ### Wireframes
+Some of the wireframes:
+- ![home.ejs](home.ejs.png)
+- ![general/allChamps.ejs](general-allChamps.ejs.png)
+- ![general/specificChamps.ejs](general-specificChamps.ejs.png)
+- ![player-showStats.ejs](player-showStats.ejs.png)
 
 ----------------------------------------------------------
 
