@@ -49,19 +49,22 @@ I believe I will only have 3 models, the user, starred recipies(ones to make aga
 * either embed or link wireframes for every page of your app
 
 ----------------------------------------------------------
-### ERD
-[ERD](https://drive.google.com/file/d/194bO54PBr1vQCvrsb4D7uA8LGhyFaNYZ/view?usp=sharing)
+### ERD  
+
+I feel like this is a little basic, but it covers all of my data relationships! [ERD](https://drive.google.com/file/d/194bO54PBr1vQCvrsb4D7uA8LGhyFaNYZ/view?usp=sharing)
 ----------------------------------------------------------
-### User Stories
+### User Stories  
 
-I have severe food allergies, but I still want delicious meals so I can keep my healthy life.. Without giving up extra time to find recipies that I can enjoy.  
+>I have severe food allergies, but I still want delicious meals so I can keep my healthy life.. Without giving up extra time to find recipies that I can enjoy.  
 
-When I don't want to go to the grocery store, I want to cook what I have and still have it taste good, sometimes a little inspiration is all it takes!
+>When I don't want to go to the grocery store, I want to cook what I have and still have it taste good, sometimes a little inspiration is all it takes!
 
-I have always been a picky eater, but I want my guests to enjoy the meal also, I can have both with this app!
+>I have always been a picky eater, but I want my guests to enjoy the meal also, I can have both with this app!
 ----------------------------------------------------------
-### Wireframes
+### Wireframes  
 
+I hand drew my wireframes and took a picture. If you want something digital, just let me know...  
+[Wireframes](https://drive.google.com/file/d/1Z0K9pHnPbI1lon9P3oBRrxakKGejU_zs/view?usp=sharing)
 ----------------------------------------------------------
 
 Make a PR when you're done!
