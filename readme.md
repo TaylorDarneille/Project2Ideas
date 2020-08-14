@@ -42,11 +42,21 @@ In the space below:
 ----------------------------------------------------------
 ### ERD
 
+https://app.diagrams.net/#G1DxX5f6mkm5RoksY7l0oZlG4Vo9uS_fjM
+
 ----------------------------------------------------------
 ### User Stories
+app that suggests anime based on your favored genres or shows 
+user can search show/genre to they can get back results 
+user can look at similar shows to search results based on genre, production company, writer
+user can leave comments based on opinions of shows
+user can pick favorites for reference 
+    AniList API
 
 ----------------------------------------------------------
 ### Wireframes
+
+https://app.diagrams.net/#G1i66aM_I95dppumByMm4aBRvlfSyIxr68
 
 ----------------------------------------------------------
 
