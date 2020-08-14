@@ -38,17 +38,27 @@ Make a PR when you're done!
 
 ## Part 2
 
+Sticking with idea 2: The recipie book!
+
 In the space below:
-* either embed or link a completed ERD for your approved P2 idea
-* if there are any changes/additions to your user stories, place your full set of revised user stories here
+* either embed or link a completed ERD for your approved P2 idea  
+
+I believe I will only have 3 models, the user, starred recipies(ones to make again), and saved for later(ones I want to try, but have yet to get the chance)
+* if there are any changes/additions to your user stories, place your full set of revised user stories here  
+
 * either embed or link wireframes for every page of your app
 
 ----------------------------------------------------------
 ### ERD
-
+[ERD](https://drive.google.com/file/d/194bO54PBr1vQCvrsb4D7uA8LGhyFaNYZ/view?usp=sharing)
 ----------------------------------------------------------
 ### User Stories
 
+I have severe food allergies, but I still want delicious meals so I can keep my healthy life.. Without giving up extra time to find recipies that I can enjoy.  
+
+When I don't want to go to the grocery store, I want to cook what I have and still have it taste good, sometimes a little inspiration is all it takes!
+
+I have always been a picky eater, but I want my guests to enjoy the meal also, I can have both with this app!
 ----------------------------------------------------------
 ### Wireframes
 
