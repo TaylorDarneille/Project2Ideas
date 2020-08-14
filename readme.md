@@ -63,10 +63,12 @@ https://drive.google.com/file/d/11cm0QX599135FnnCLLwHRxq6nLk9orqs/view?usp=shari
 
 ----------------------------------------------------------
 ### User Stories
-
+As a user, I want to track my daily moods and save them.
+As a user, I want to view an overview of my monthly moods to identify trends.
+As a user, I want to export my mood overview to a pdf to give to my healthcare provider. 
 ----------------------------------------------------------
 ### Wireframes
-
+https://drive.google.com/file/d/18aWveG_Yp9A9CJqqFNHi3GROVF6yRJLD/view?usp=sharing
 ----------------------------------------------------------
 
 Make a PR when you're done!
