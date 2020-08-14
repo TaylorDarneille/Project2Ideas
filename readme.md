@@ -10,8 +10,8 @@ In this space below, list **THREE** ideas for your Project 2. For each idea, inc
 
 --------------------------------------------------------
 1. A social Netorking Site
-2. A resturant Website with order processing
-3. E-commerce webiste with order processing
+2. Online Calender with scheduleing/reminder
+3. Flight search app using skyscanner api
 ---------------------------------------------------------
 
 Make a PR when you're done!
