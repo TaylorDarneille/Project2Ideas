@@ -12,16 +12,16 @@ In this space below, list **THREE** ideas for your Project 2. For each idea, inc
 1. Classical Music Album Rating App
 * As a user I would like to discover Classical Music Pieces.
 * As a user I waould like to save these pieces to my favorite albums, rate them, and share them.
-API`https://github.com/openopus-org/openopus_api`
+API (https://api.openopus.org/work/dump.json)
 2. Beer Rating app
 * As a User I want to discover new beers.
 * As user after I dicover my my favorite beers I would like to save them, and review them, and comment on them.
-API `https://rapidapi.com/theapiguy/api/the-cocktail-db`
+API (https://rapidapi.com/theapiguy/api/the-cocktail-db)
 3. Music Theory Basics App
 * As a User, I would like to learn primary music theoy.
 * As User I would like to search for music glossary terms
 * As a User I would like the content to challenge me as I learn
-API`https://www.programmableweb.com/api/hooktheory`
+API (https://www.programmableweb.com/api/hooktheory)
 
 ---------------------------------------------------------
 
@@ -37,14 +37,20 @@ In the space below:
 * either embed or link wireframes for every page of your app
 
 ----------------------------------------------------------
-### ERD
+### ERD  (https://whimsical.com/NjovwqZyDcDXrDEALYW8Ny)
 
 ----------------------------------------------------------
 ### User Stories
-
+* As a USER I would like to log in to my own unique account, log in, or log out and add or sign up for new user.
+* As a User i would like to search my prefered classical music by 
+referencing Composer name and Music Piece, or even add the Music Instrument to pin point my mood.
+* As a User I would like to see images of the artist or infof about the artist and comment on the piece, and later view all my comments.
+* As a user I would like to save my favorite pieces.
 ----------------------------------------------------------
 ### Wireframes
-
+* index/ show pages (https://whimsical.com/SUdBysntPWDVYGPPfcp5R9)
+* faves page (https://whimsical.com/5VLk8iv4AanmGxePXKSrEF)
+### In the preview page you may need to resize form the bottom right corner or your track pad.
 ----------------------------------------------------------
 
 Make a PR when you're done!
