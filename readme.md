@@ -42,7 +42,7 @@ In the space below:
 ----------------------------------------------------------
 ### ERD
 
-https://app.diagrams.net/#G1DxX5f6mkm5RoksY7l0oZlG4Vo9uS_fjM
+[ERD](https://i.imgur.com/4gQ6hgQ.png)
 
 ----------------------------------------------------------
 ### User Stories
@@ -56,7 +56,13 @@ user can pick favorites for reference
 ----------------------------------------------------------
 ### Wireframes
 
-https://app.diagrams.net/#G1i66aM_I95dppumByMm4aBRvlfSyIxr68
+* [Login page](https://i.imgur.com/YqcsCBl.png)
+* [Sign up page](https://i.imgur.com/i0bnbwp.png)
+* [Home page](https://i.imgur.com/O2YIS1J.png)
+* [Search page](https://i.imgur.com/Fgf0nsS.png)
+* [Results page](https://i.imgur.com/t6arm8T.png)
+* [Deatails page](https://i.imgur.com/3AcjNH1.png)
+* [Favorites page](https://i.imgur.com/op289Lq.png)
 
 ----------------------------------------------------------
 
