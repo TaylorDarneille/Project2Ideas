@@ -9,7 +9,9 @@ Review the [Project 2 requirements](https://tmdarneille.gitbook.io/sei-ga-sea/11
 In this space below, list **THREE** ideas for your Project 2. For each idea, include [user stories](https://revelry.co/user-stories-that-dont-suck/) for each idea and a link to the API(s) you want to use for it.
 
 --------------------------------------------------------
-1. 
+1. Horoscopes and Secret of the day
+https://aztro.sameerkumar.website
+https://zenquotes.io/api/random
 2. 
 3.
 ---------------------------------------------------------
@@ -27,13 +29,17 @@ In the space below:
 
 ----------------------------------------------------------
 ### ERD
-
+https://whimsical.com/VGZmyH2RsZkfm85HVbg1rN
 ----------------------------------------------------------
 ### User Stories
+1. Home page shows daily horoscopes and inspiration quote of the day
+2. User signup / login to access the favorite list
+3. User can add inspiration quote to favorite list
+4. User can delete and add post to own favorite list
 
 ----------------------------------------------------------
 ### Wireframes
-
+https://whimsical.com/97T9zXwMjjVPY56k9dfWFA
 ----------------------------------------------------------
 
 Make a PR when you're done!
