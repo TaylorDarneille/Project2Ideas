@@ -16,7 +16,7 @@ In this space below, list **THREE** ideas for your Project 2. For each idea, inc
 * As a user, I can delete pictures saved in favorite
 * As a user, I can delete categories along with pictures saved in it
 
-2. Compare Zillow Data from Two Cities[Zillow API](https://www.zillow.com/howto/api/APIOverview.htm)
+2. Compare Zillow Data from Two Cities[Zillow API](https://www.zillow.com/howto/api/GetSearchResults.htm)
 * As a user, I want to search for the average house-price/sq-ft/years-build/days-on-market/price-per-sq-ft by city or zipcode from zillow 
 * As a user, I want to compare these data between two cities
 * As a user, I want to sign up to save my search result 
@@ -45,12 +45,18 @@ In the space below:
 ----------------------------------------------------------
 ### ERD
 
+https://app.diagrams.net/?libs=general;er#Hmargaret-jihua%2FProject2Ideas%2Fmaster%2FUntitled%20Diagram.png
 ----------------------------------------------------------
 ### User Stories
-
+(I want to choose second idea, but zillow API doesn't give me access to search porperties)
+* As a user, I want to search the Astronomy Picture by the date 
+* As a user, I want to sign up to save my favorite pictures
+* As a user, I want to view my saved pictures in different category
+* As a user, I can delete pictures saved in favorite
+* As a user, I can delete categories along with pictures saved in it
 ----------------------------------------------------------
 ### Wireframes
-
+similar to [this](https://elearningimages.adobe.com/files/2018/10/wireframe.png)
 ----------------------------------------------------------
 
 Make a PR when you're done!
