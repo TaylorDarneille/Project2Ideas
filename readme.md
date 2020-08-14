@@ -28,22 +28,23 @@ Make a PR when you're done!
 
 ---
 
-## Part 2
+## Part 2 
 
 In the space below:
 * either embed or link a completed ERD for your approved P2 idea
 * if there are any changes/additions to your user stories, place your full set of revised user stories here
 * either embed or link wireframes for every page of your app
 
+(adding more later)
 ----------------------------------------------------------
 ### ERD
-
+link: https://app.diagrams.net/#G1dYgaif6jgP5kVol8_8UD20cAXiETy_04
 ----------------------------------------------------------
 ### User Stories
 
 ----------------------------------------------------------
 ### Wireframes
-
+link: https://app.diagrams.net/#G1cqxWp8jclrZc2iMohIeOy3ao7E0ShUeF
 ----------------------------------------------------------
 
 Make a PR when you're done!
