@@ -96,13 +96,32 @@ In the space below:
 
 ### ERD
 
+[ERD ROUGH DRAFT](https://imgur.com/fjSEvL1)
+
+- Not finished, have a rough draft need Instructor Input.
+
 ---
 
 ### User Stories
 
+- User can log in or sign up to view weather and astronomy cast by location.
+- User can save their or multiple location, weather and astronomy cast to their "my Locations".
+- User can delete saved locations under their "my Locations."
+
+* STRETCH GOAL
+  -- User can share there location weather and astronomy cast to social media.
+* SUPER STRETCH GOAL
+  -- User can listen to spotifypLAYLIST while searching locations or browsing myLocations
+
 ---
 
 ### Wireframes
+
+- [INDEX Page](https://imgur.com/DSN7jXV)
+- [LOGIN Page](https://imgur.com/jPtIsJu)
+- [SEARCH Page](https://imgur.com/U1FIRuo)
+- [RESULT Page](https://imgur.com/Ux8b3LK)
+- [myLocation Page](https://imgur.com/F5pNWEE)
 
 ---
 
