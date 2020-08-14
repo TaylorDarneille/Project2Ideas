@@ -43,11 +43,24 @@ In the space below:
 ----------------------------------------------------------
 ### ERD
 
+![Image of ERD](https://i.imgur.com/YROXhvZ.png)
+
 ----------------------------------------------------------
 ### User Stories
 
+As a trader, I want to be able to track shifts in marketplace items to maximize my gold making
+As a crafter, I want to be able to monitor crafting items gold cost to find the best time to buy items
+
 ----------------------------------------------------------
 ### Wireframes
+
+##### Front Page
+
+![Front Page Wireframe](https://i.imgur.com/JI1uvqR.png)
+
+##### Item Details
+
+![Item Details Page Wireframe](https://i.imgur.com/3IUjsig.png)
 
 ----------------------------------------------------------
 
