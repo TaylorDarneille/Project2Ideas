@@ -41,16 +41,16 @@ In the space below:
 
 ----------------------------------------------------------
 ### User Stories
-* As a USER I would like to log in to my own unique account, log in, or log out and add or sign up for new user.
-* As a User i would like to search my prefered classical music by 
-referencing Composer name and Music Piece, or even add the Music Instrument to pin point my mood.
-* As a User I would like to see images of the artist or infof about the artist and comment on the piece, and later view all my comments.
+* As a USER I would like to login to my own unique account, log out and add or sign up for a new user.
+* As a User I would like to search my prefered classical music by 
+referencing a Composer's name and Music Piece, or even add the Music Instrument to pin=point my request.
+* As a User I would like to see images or info about the artist and comment on the piece, and later view all my comments.
 * As a user I would like to save my favorite pieces.
 ----------------------------------------------------------
 ### Wireframes
 * index/ show pages (https://whimsical.com/SUdBysntPWDVYGPPfcp5R9)
 * faves page (https://whimsical.com/5VLk8iv4AanmGxePXKSrEF)
-### In the preview page you may need to resize form the bottom right corner or your track pad.
+### In the preview page you may need to resize from the bottom right corner or your track pad and/or you can grab and move the wireframes around with the selector.
 ----------------------------------------------------------
 
 Make a PR when you're done!
