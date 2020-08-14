@@ -50,11 +50,31 @@ In the space below:
 ----------------------------------------------------------
 ### ERD
 
+[erd link](https://whimsical.com/3mzA7KX5TGNwZ92ugFqj4q)
 ----------------------------------------------------------
 ### User Stories
-
+I think I am set with my user stories, but if I need to reevaluate them, please let me know so I can rethink them to fit the deliverable requirements.
 ----------------------------------------------------------
 ### Wireframes
+[home page](https://whimsical.com/CZmFqE2LgYxz4F5AWktdLn)
+
+[login page](https://whimsical.com/AQLA7GQxiNsnkV7bL6JBMw)
+
+[sign up page](https://whimsical.com/7ro8WxQHpS5XcanPtx4x7h)
+
+[meal plans page](https://whimsical.com/DRz74Prxtz2dRQtjwv76sn)
+
+[smacks n snacks n sauce page](https://whimsical.com/ShWtnTcj2xwRnoRRvQZ2eC)
+
+[order page](https://whimsical.com/8NWwSQVz6uxoebUbrquVjL)
+
+[delivery radius page](https://whimsical.com/JqbNBu2j2WrhNRKwaJEZLT)
+
+[about the owner page](https://whimsical.com/ERj7RirDByriiRfmJLFzi9)
+
+[contact page](https://whimsical.com/FoZL4tx9rkJ6k2DJRZAsjQ)
+
+[chef page](https://whimsical.com/RytJgXNeXXw53iWs1hjA5B)
 
 ----------------------------------------------------------
 
