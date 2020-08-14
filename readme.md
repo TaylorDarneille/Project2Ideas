@@ -43,10 +43,13 @@ Link: https://drive.google.com/file/d/11LEb-omNQcTzm9VshVkEJlodRLQwnbty/view?usp
 
 ----------------------------------------------------------
 ### User Stories
+API for League of Legends: https://developer.riotgames.com/apis
+- Commiting to Project Idea #1 
+    - Scope limitation: can add or remove number of pages being done and amount of data being added based off of amount of time available
 
 ----------------------------------------------------------
 ### Wireframes
-Some of the wireframes:
+Some of the wireframes (took me way too long to make these):
 - ![home.ejs](home.ejs.png)
 - ![general/allChamps.ejs](general-allChamps.ejs.png)
 - ![general/specificChamps.ejs](general-specificChamps.ejs.png)
