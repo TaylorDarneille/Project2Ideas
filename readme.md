@@ -9,9 +9,27 @@ Review the [Project 2 requirements](https://tmdarneille.gitbook.io/sei-ga-sea/11
 In this space below, list **THREE** ideas for your Project 2. For each idea, include [user stories](https://revelry.co/user-stories-that-dont-suck/) for each idea and a link to the API(s) you want to use for it.
 
 --------------------------------------------------------
-1. Photobooth webpage(for my cousin)
-2. Retirement Home
-3. Freemason lodge website
+1. Photobooth webpage 
+
+    * user can book a service and look at rates. 
+    * a sign up and log in.
+    * user can check on other customer's feedback of the service
+    * user can delete or edit the service that they want to book. 
+
+API: <br />
+[Rapidapi](https://rapidapi.com/category/Location)
+
+2. NBA player data
+
+    * User will sign up or login
+    * User can search their favorite player
+    * User can add/delete their favorite player
+
+API: <br />
+[Sportsdata](https://sportsdata.io/nba-api)<br />
+[Rapidapi](https://rapidapi.com/category/Sports)
+    
+3.
 ---------------------------------------------------------
 
 Make a PR when you're done!
@@ -34,6 +52,9 @@ In the space below:
 ----------------------------------------------------------
 ### Wireframes
 
+1. [Photo Booth](https://whimsical.com/HwHqgsWB3z9tj4Xpo5rpBd)
+
+2. [NBA player card](https://whimsical.com/KpDhmpoPAr8hG84jbe3so9@2Ux7TurymMP29J2mwx2f)
 ----------------------------------------------------------
 
 Make a PR when you're done!
