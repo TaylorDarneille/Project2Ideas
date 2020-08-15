@@ -96,9 +96,7 @@ In the space below:
 
 ### ERD
 
-[ERD](https://imgur.com/DmCElAb)
-
-- Not finished, have a rough draft need Instructor Input.
+[ERD](https://imgur.com/5VUHwQG)
 
 ---
 
@@ -122,6 +120,8 @@ In the space below:
 - [SEARCH Page](https://imgur.com/U1FIRuo)
 - [RESULT Page](https://imgur.com/wl7qMGm)
 - [myLocation Page](https://imgur.com/F5pNWEE)
+
+* [Edit Page](https://imgur.com/aKQoT6R)
 
 ---
 
