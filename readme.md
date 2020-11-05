@@ -9,8 +9,10 @@ In this space below, list **THREE** ideas for your Project 2. For each idea, inc
 
 --------------------------------------------------------
 1. Dog viewing app
+    * API: https://dog.ceo/dog-api/
 2. Online journaling app
-3. A poetry app where a user selects a photo to be the theme of the poem
+3. A poetry app where a user selects a photo to be the theme of a poem/short prose/note/etc.
+    * API: https://unsplash.com/documentation#creating-a-developer-account
 ---------------------------------------------------------
 
 Make a PR when you're done!
@@ -26,6 +28,8 @@ In the space below:
 
 ----------------------------------------------------------
 ### ERD
+
+* ERD for writing app: https://lucid.app/invitations/accept/d7c024b2-cd71-4133-8911-fe77740f03fa
 
 ----------------------------------------------------------
 ### User Stories
@@ -46,6 +50,8 @@ In the space below:
 
 ----------------------------------------------------------
 ### Wireframes
+
+* Poetry app wireframe: https://lucid.app/invitations/accept/6d4e680a-a358-4995-94b2-7752a3042411
 
 ----------------------------------------------------------
 
