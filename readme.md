@@ -8,7 +8,8 @@ Review the [Project 2 requirements](https://tmdarneille.gitbook.io/seirfx/11-pro
 
 --------------------------------------------------------
 Project 2 Idea
-##### **Air Pollution App:** a user enters their location and is given air quality data. They can make an account to store data and write journal entires about their health. They can click on specific pollutants to learn more about them and receive recommendations for ways to lessen their environmental impact.
+##### Air Pollution App:
+###### Users enter their location and are given air quality data. They can make an account to store data and write journal entires about their health. They can click on specific pollutants to learn more about them and receive recommendations for ways to lessen their environmental impact.
 ---------------------------------------------------------
 
 Make a PR when you're done!
