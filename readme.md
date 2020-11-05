@@ -12,16 +12,23 @@ In the space below:
 
 ----------------------------------------------------------
 ### ERD
-
+[here](https://lucid.app/invitations/accept/7a5e6e3b-52ab-4939-b5ee-4985d39d198e)
 ----------------------------------------------------------
 ### User Stories
+As a user i want to see/update a todo list of tasks
+As a user I can see whne those todo items were added
+As a user I can mark items as complete
+As a user I can view a random image
+As a user I can save the image to my faves
+As a user I can see how many other users saved that image
 
 ----------------------------------------------------------
 ### Wireframes
 
 ----------------------------------------------------------
 ### APIs and other outside tech
-
+Unsplash API
+Moment JS
 ----------------------------------------------------------
 
 Make a PR when you're done and title it with your pod person's name and yours (eg. "Edward<-->Taylor")!
