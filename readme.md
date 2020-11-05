@@ -1,6 +1,5 @@
 # Project 2 Planning
 
-Fork & Clone this repo.
 
 ## Part 1
 
@@ -9,9 +8,9 @@ Review the [Project 2 requirements](https://tmdarneille.gitbook.io/seirfx/11-pro
 In this space below, list **THREE** ideas for your Project 2. For each idea, include [user stories](https://revelry.co/user-stories-that-dont-suck/) for each idea and a link to the API(s) you want to use for it.
 
 --------------------------------------------------------
-1. 
-2. 
-3.
+1. Dog viewing app
+2. Online journaling app
+3. A poetry app where a user selects a photo to be the theme of the poem
 ---------------------------------------------------------
 
 Make a PR when you're done!
@@ -30,6 +29,20 @@ In the space below:
 
 ----------------------------------------------------------
 ### User Stories
+1. 
+    * I want to be able to search for random dog images
+    * I want to be able to search for dogs by breed
+    * I want to be able to save favorite pictures
+    * I want to be able to view a slide of my favorited pictures
+2. 
+    * I want to have the ability to write and edit journal entries
+    * I want to have the ability to delete journal entries
+    * I want to be able to read previous journal entries
+3. 
+    * I want to be able to write and edit entries. The entry should have a title, body, and date.
+    * I want to be able to delete entries
+    * I want to be able to search for a specific target or retrieve a random image
+
 
 ----------------------------------------------------------
 ### Wireframes
