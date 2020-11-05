@@ -9,14 +9,30 @@ Review the [Project 2 requirements](https://tmdarneille.gitbook.io/seirfx/11-pro
 In this space below, list **THREE** ideas for your Project 2. For each idea, include [user stories](https://revelry.co/user-stories-that-dont-suck/) for each idea and a link to the API(s) you want to use for it.
 
 --------------------------------------------------------
-1. 
-2. 
-3.
+## 1.  SoundCloud
+    1. Who? 
+    A person who would like to listen to music by both known artists and lesser known artist who aren't avalible on typical music platforms.  Or simply listen to an array of music without a paid subscription with the ability of making playlists and collaborate with other users.
+    2. What? 
+    Listen to an array of music without a paid subscription with the ability of making playlists and collaborate with other users.
+    3. Why?
+    There are music listeners that don't want to pay for music and or want to listen to artists that are not found on typical streaming sites. 
+--------------------------------------------------------
+## 2.  Soccer Sports Open Data
+    1. Who? 
+    A person who likes soccer and would like to do research and or is curious about soccer players and their performances statistically
+    2. What? 
+    Access statistical soccer data.  
+    3. Why?
+    Allows users to analyze soccer from statistical point of view rather than a more subjective view of watching them play.
+--------------------------------------------------------
+## 3.  Yahoo’s Fantasy Sports API
+    1. Who? 
+    A person enjoys fantasy sports and would like too research and or is curious about players fantasy sports performances.
+    2. What? 
+    Access fantasy sports data. 
+    3. Why?
+    Allows users to analyze fantasy players performances.
 ---------------------------------------------------------
-
-Make a PR when you're done!
-
----
 
 ## Part 2
 
