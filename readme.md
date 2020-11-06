@@ -11,6 +11,12 @@ In the space below:
 * include links to any APIs or other 3rd party tech you plan to use
 
 ----------------------------------------------------------
+
+## Overview
+
+This app will allow users to view recipes and create their own recipes to build out a personalized cookbook of favorite recipes. They'll be able to edit their own created recipes and delete recipes from their cookbook.
+
+----------------------------------------------------------
 ### ERD
 
 ----------------------------------------------------------
@@ -18,6 +24,13 @@ In the space below:
 
 ----------------------------------------------------------
 ### Wireframes
+
+![Home Page](home-page.png)\
+![Login Page](login.png)\
+![My Recipes Page](my-cookbook.png)\
+![New Recipe Page](new-recipe.png)\
+![Categories Page](categories.png)\
+![Recipe Detail Page](recipe-detail.png)\
 
 ----------------------------------------------------------
 ### APIs and other outside tech
