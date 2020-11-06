@@ -14,7 +14,7 @@ In the space below:
 
 ## Overview
 
-This recipe app will allow users to view recipes and create their own recipes to build out a personalized cookbook of favorite recipes. They'll be able to edit their own created recipes and delete recipes from their cookbook.
+This recipe app will allow users to view recipes and create their own recipes to build out a personalized cookbook of favorites. They'll be able to edit their own created recipes, including instructions on how to prepare the meal and the ingredients to you. They'll also be able to add and delete recipes from their cookbook.
 
 ----------------------------------------------------------
 ### ERD
