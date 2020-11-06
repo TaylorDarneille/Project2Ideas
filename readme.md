@@ -19,6 +19,8 @@ This recipe app will allow users to view recipes and create their own recipes to
 ----------------------------------------------------------
 ### ERD
 
+![ERD](ERD.png)
+
 ----------------------------------------------------------
 ### User Stories
 1. As a user, I want to land on a homepage and be directed to login / sign-up when any links are clicked
@@ -53,10 +55,12 @@ This recipe app will allow users to view recipes and create their own recipes to
 ![My Recipes Page](my-cookbook.png)\
 ![New Recipe Page](new-recipe.png)\
 ![Categories Page](categories.png)\
-![Recipe Detail Page](recipe-detail.png)\
+![Recipe Detail Page](recipe-detail.png)
 
 ----------------------------------------------------------
 ### APIs and other outside tech
+
+[Recipe API](https://rapidapi.com/webknox/api/recipe?endpoint=53aa54e4e4b0a9b1348da918)
 
 ----------------------------------------------------------
 
