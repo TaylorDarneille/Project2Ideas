@@ -14,14 +14,37 @@ In the space below:
 
 ## Overview
 
-This app will allow users to view recipes and create their own recipes to build out a personalized cookbook of favorite recipes. They'll be able to edit their own created recipes and delete recipes from their cookbook.
+This recipe app will allow users to view recipes and create their own recipes to build out a personalized cookbook of favorite recipes. They'll be able to edit their own created recipes and delete recipes from their cookbook.
 
 ----------------------------------------------------------
 ### ERD
 
 ----------------------------------------------------------
 ### User Stories
-
+1. As a user, I want to land on a homepage and be directed to login / sign-up when any links are clicked
+   * Create redirect to login page
+   * Verify if user exists or if new sign up is needed (authentication)
+   * Add user to user model
+1. User should be directed to home page after login
+    * Create redirect to home page
+1. User should be able to view pre-populated recipes or search for new recipes
+    * Set up API connection to pull from Recipe API's available recipes
+    * Pull in all recipe details through API
+    * Redirect to recipe detail page when selected
+1. User should be able to add recipe to their 'cookbook'
+    * Confirm addition by navigating to 'My Recipes' page with all favorited recipes
+    * CREATE route to add recipe in recipe model
+1. User should be able to create a new recipe
+    * Store directions, instructions, name and image within database
+    * POST route to add recipe in recipe model
+1. User should be able to edit their own recipes or delete recipes in their cookbook
+    * PUT route to update recipe model accordingly
+    * DELETE route to delete recipe from the recipe model
+1. User should be able to view recipes according to category
+    * Click "Categories" link to navigate to categories page
+    * GET route to get recipes with certain category
+1. User should be able to write a review on a recipe
+    * PUT route to add comment to a recipe
 ----------------------------------------------------------
 ### Wireframes
 
