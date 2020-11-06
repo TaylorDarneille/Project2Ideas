@@ -15,19 +15,21 @@ In the space below:
 [here](https://lucid.app/invitations/accept/7a5e6e3b-52ab-4939-b5ee-4985d39d198e)
 ----------------------------------------------------------
 ### User Stories
-As a user i want to see/update a todo list of tasks
-As a user I can see whne those todo items were added
-As a user I can mark items as complete
-As a user I can view a random image
-As a user I can save the image to my faves
-As a user I can see how many other users saved that image
+As a user I can write a diary entry for a date.
+As a user, I can the sentiment of my diary entry alongside the moon phase and if mecury is in retrograde
+As a user I can populate a list of self care ideas
+As a user I can tick off when I do self-care tasks
+As a user I can see the last time I did a certain self-care task
+BONUS: As a user I can view aggregate sentiment data for a certain date to see how the world feels when mercury is in retrograde
 
 ----------------------------------------------------------
 ### Wireframes
 
 ----------------------------------------------------------
 ### APIs and other outside tech
-Unsplash API
+Mecury Retrograde API
+Time and Date API (for moon phase)
+Sentiment NPM package
 Moment JS
 ----------------------------------------------------------
 
