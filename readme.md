@@ -19,14 +19,16 @@ In the space below:
 
 ----------------------------------------------------------
 ### Wireframes
-![Log in](https://imgur.com/z0ARvlZ)
+<!-- ![Log in](https://imgur.com/z0ARvlZ)
 ![Sign in](https://imgur.com/Zy8y9kn)
 ![Main Page w/ monthly calendar](https://imgur.com/OH9nxqk)
 ![Main Page w/ weekly calendar](https://imgur.com/ajGlzmJ)
 ![Projects Page](https://imgur.com/x5RzKRa)
 ![Homework Page](https://imgur.com/qi20ETl)
 ![Tests Page](https://imgur.com/VWx2DJh)
-![Add Project Example](https://imgur.com/FQ7aQC8)
+![Add Project Example](https://imgur.com/FQ7aQC8) -->
+
+![wireframe](https://imgur.com/a/MAo0h2T)
 
 ----------------------------------------------------------
 ### APIs and other outside tech
