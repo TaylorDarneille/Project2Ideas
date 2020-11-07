@@ -40,7 +40,7 @@ In the space below:
 
 ----------------------------------------------------------
 ### Wireframes
-    - https://lucid.app/invitations/accept/aeaf336f-f5d9-489a-82cc-964f4a8301b4
+    * https://lucid.app/invitations/accept/aeaf336f-f5d9-489a-82cc-964f4a8301b4
 ----------------------------------------------------------
 
 Make a PR when you're done!
