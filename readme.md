@@ -31,7 +31,8 @@ https://lucid.app/lucidchart/2eb5d2d4-0701-4b3b-9db1-70afdf47a500/edit?shared=tr
 (TBA)
 ----------------------------------------------------------
 ### APIs and other outside tech
-Medium API (potentially): https://github.com/Medium/medium-api-docs && Data Scraping: using https://cheerio.js.org/ on (at least) https://drop.com/home NOTE: still trying to find product API
+* Medium API (potentially): https://github.com/Medium/medium-api-docs 
+* Data Scraping: using https://cheerio.js.org/ on (at least) https://drop.com/home NOTE: still trying to find product API
 ----------------------------------------------------------
 
 Make a PR when you're done and title it with your pod person's name and yours (eg. "Edward<-->Taylor")!
