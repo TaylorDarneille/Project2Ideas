@@ -22,10 +22,19 @@ In the space below:
 ----------------------------------------------------------
 ### Wireframes
 ![mainpage](./Wireframe/1.png)
+
+------------------------------
 ![guestpage](./Wireframe/2.png)
+
+-------------------------------
 ![mealpage](./Wireframe/3.png)
+
+---------------------------------
 ![cocktailpage](./Wireframe/4.png)
+
+-----------------------------------
 ![searchresultspage](./Wireframe/5.png)
+
 ----------------------------------------------------------
 ### APIs and other outside tech
 
