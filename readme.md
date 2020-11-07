@@ -9,7 +9,11 @@ In this space below, list **THREE** ideas for your Project 2. For each idea, inc
 --------------------------------------------------------
 It was difficult for me to zone in on just one idea, I came across so many cool APIs.. but for the full RESTful experience there weren't too many that I was interested in where it made sense to PUT or DELETE something. 
 
-I did find one API though where I think might be appropriate for it. So this app will be for all those that enjoy alcohol to some extent, and will be looking to experiment and be adventurous with new ones. It's going to be a guide (cookbook like) but for making drinks. It will list the ingredents to make a concoction along with a name and a picture to with it for a full blown drunken experience afterward. The idea is mainly to have a guide be able to make the cocktail, but there will also be a way to save your favorites, and there will be a forum of some sort where EDIT/DELETE will come into play for those who maybe want to leave a review about the drink, or need help from someone because somehow they don't know how to measure properly to make a perfect drink.
+I did find one API though where I think might be appropriate for it. So this app will be for all those that enjoy alcohol to some extent, and will be looking to experiment and be adventurous with new ones. It's going to be a guide (cookbook like) but for making drinks. It will list the ingredients to make a concoction along with a name and a picture to with it for a full blown drunken experience afterward. 
+
+The idea is mainly to have a guide be able to make the cocktail, but there will also be a way to save your favorites, and there will be a forum of some sort where EDIT/DELETE will come into play for those who maybe want to leave a review about the drink, or need help from someone because somehow they don't know how to measure properly to make a perfect drink.
+
+Also if you've experimented enough with different ingredients and made a signature drink of your own, you should be able to add it to the database!
 ---------------------------------------------------------
 
 Make a PR when you're done!
