@@ -16,19 +16,27 @@ In the space below:
 
 ----------------------------------------------------------
 ### User Stories
-
+* I want to be able to add, delete and added projects, homeworks, tests and events 
+* I want to be able to add, delete, edit, migrate or cross out any tasks in any of my to do list
+* I want to be able to edit my calendar view 
 ----------------------------------------------------------
 ### Wireframes
-<!-- ![Log in](https://imgur.com/z0ARvlZ)
-![Sign in](https://imgur.com/Zy8y9kn)
-![Main Page w/ monthly calendar](https://imgur.com/OH9nxqk)
-![Main Page w/ weekly calendar](https://imgur.com/ajGlzmJ)
-![Projects Page](https://imgur.com/x5RzKRa)
-![Homework Page](https://imgur.com/qi20ETl)
-![Tests Page](https://imgur.com/VWx2DJh)
-![Add Project Example](https://imgur.com/FQ7aQC8) -->
+![Log in](https://imgur.com/z0ARvlZ)
 
-![wireframe](https://imgur.com/a/MAo0h2T)
+![Sign in](https://imgur.com/Zy8y9kn)
+
+![Main Page w/ monthly calendar](https://imgur.com/OH9nxqk)
+
+![Main Page w/ weekly calendar](https://imgur.com/ajGlzmJ)
+
+![Projects Page](https://imgur.com/x5RzKRa)
+
+![Homework Page](https://imgur.com/qi20ETl)
+
+![Tests Page](https://imgur.com/VWx2DJh)
+
+![Add Project Example](https://imgur.com/FQ7aQC8)
+
 
 ----------------------------------------------------------
 ### APIs and other outside tech
