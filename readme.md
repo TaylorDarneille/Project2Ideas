@@ -22,4 +22,4 @@ https://lucid.app/invitations/accept/b8b9f4a7-4b25-4a94-9446-27d7ee70516b
 
 ### Wireframes
 
-![Wireframe 1]https://github.com/cam-em/Project2Ideas/weather-app-wireframe.png
+![Wireframe 1](https://github.com/cam-em/Project2Ideas/blob/master/weather-app-wireframe.png?raw=true)
