@@ -36,8 +36,8 @@ https://lucid.app/invitations/accept/82d7c430-7c59-4802-8cd2-a6ffb0710618
 * As a user, I should be able to view my favorites
 ----------------------------------------------------------
 ### Wireframes
-<img src="https://i.ibb.co/zxDvtdk/20201106-200710.jpg" alt="20201106-200710" border="0">
-<img src="https://i.ibb.co/5YsPgt1/20201106-200814.jpg" alt="20201106-200814" border="0">
+<img src="https://i.ibb.co/RyHBTz5/20201106-200814.jpg" alt="20201106-200814" border="0">
+<img src="https://i.ibb.co/gFVrDkr/20201106-200710.jpg" alt="20201106-200710" border="0">
 ----------------------------------------------------------
 
 ### APIs and other outside tech
