@@ -10,7 +10,7 @@ In this space below, list **THREE** ideas for your Project 2. For each idea, inc
 
 --------------------------------------------------------
 1. Mail tracking app... aka Mail Direct!
-2. 
+2. API being used: https://cloudinary.com/
 3.
 ---------------------------------------------------------
 
