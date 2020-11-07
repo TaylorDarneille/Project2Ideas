@@ -19,7 +19,7 @@ This recipe app will allow users to view recipes and create their own recipes to
 ----------------------------------------------------------
 ### ERD
 
-![ERD](ERD.png)
+https://lucid.app/invitations/accept/ec256862-8f53-4741-942a-eda1d9ef7ca1
 
 ----------------------------------------------------------
 ### User Stories
