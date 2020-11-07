@@ -29,7 +29,7 @@ In the space below:
 ### ERD
 https://lucid.app/lucidchart/a0e896aa-0793-4a94-9e35-114d0f4d4af5/edit?beaconFlowId=492267B58FD25F98&page=0_0#?folder_id=home&browser=icon----------------------------------------------------------
 ### User Stories
-As a user, I want to be able to sign up and log in to Mail Direct. I also want to be able to take a picture of mail and store under its appropriate category (ex: junk mail, cell phone bill, medical bill etc...). I also want to be able to update, edit, and delete exsisting mail from each categeory. 
+#### As a user, I want to be able to sign up and log in to Mail Direct. I also want to be able to take a picture of mail and store under its appropriate category (ex: junk mail, cell phone bill, medical bill etc...). I also want to be able to update, edit, and delete exsisting mail from each categeory. 
 ----------------------------------------------------------
 ### Wireframes
 https://www.figma.com/file/NGJCfYAXlmuMfAaZ0YJTXB/Project-2?node-id=0%3A1
