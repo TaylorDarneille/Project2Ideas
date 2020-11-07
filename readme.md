@@ -13,7 +13,7 @@ In the space below:
 
 ----------------------------------------------------------
 ### ERD
-
+* [Lucid Charts Link](https://lucid.app/invitations/accept/abc8e244-229e-473b-acaa-2d89c6318f35)
 ----------------------------------------------------------
 ### User Stories
 * I want to be able to add, delete and added projects, homeworks, tests and events 
