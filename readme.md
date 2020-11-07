@@ -13,8 +13,6 @@ In the space below:
 ----------------------------------------------------------
 ### ERD
 https://lucid.app/lucidchart/2eb5d2d4-0701-4b3b-9db1-70afdf47a500/edit?shared=true&page=0_0#
-
-<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embeddedchart/6051ac68-1bc6-473c-9ef8-7bff197691dc" id="qO_Lhy00Ujft"></iframe></div>
 ----------------------------------------------------------
 ### User Stories
 * If a user visits the website, they should first be routed to the login page. 
