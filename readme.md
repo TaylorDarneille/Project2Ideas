@@ -21,21 +21,25 @@ In the space below:
 * I want to be able to edit my calendar view 
 ----------------------------------------------------------
 ### Wireframes
-![Log in](https://imgur.com/z0ARvlZ)
+#### Entire Wireframe
+* [Wireframe](https://imgur.com/a/MAo0h2T)
+#### Parts of Wireframe
 
-![Sign in](https://imgur.com/Zy8y9kn)
+* [Log in](https://imgur.com/z0ARvlZ)
 
-![Main Page w/ monthly calendar](https://imgur.com/OH9nxqk)
+* [Sign in](https://imgur.com/Zy8y9kn)
 
-![Main Page w/ weekly calendar](https://imgur.com/ajGlzmJ)
+* [Main Page w/ monthly calendar](https://imgur.com/OH9nxqk)
 
-![Projects Page](https://imgur.com/x5RzKRa)
+* [Main Page w/ weekly calendar](https://imgur.com/ajGlzmJ)
 
-![Homework Page](https://imgur.com/qi20ETl)
+* [Projects Page](https://imgur.com/x5RzKRa)
 
-![Tests Page](https://imgur.com/VWx2DJh)
+* [Homework Page](https://imgur.com/qi20ETl)
 
-![Add Project Example](https://imgur.com/FQ7aQC8)
+* [Tests Page](https://imgur.com/VWx2DJh)
+
+* [Add Project Example](https://imgur.com/FQ7aQC8)
 
 
 ----------------------------------------------------------
