@@ -31,7 +31,9 @@ In the space below:
 
 ----------------------------------------------------------
 ### ERD
-Need help with it, have some confusion on relations. Will add after some clarification
+
+![ERD] (https://lucid.app/invitations/accept/9c964b89-cacf-4774-926c-c1dffe8ed8d8)
+
 ----------------------------------------------------------
 ### User Stories
 1. I should be able to search for a drink by name, or ingredient.
@@ -42,7 +44,9 @@ Need help with it, have some confusion on relations. Will add after some clarifi
 6. If I have a drink I want to share with the world, I want to be able to add it!
 
 ----------------------------------------------------------
-### Wireframes
+### Wireframes 
+
+**Subject to Change.. just a rough idea in my head without visuals
 
 ### Loginpage:
 ![LoginPage] (https://imgur.com/7mk0WyU)
