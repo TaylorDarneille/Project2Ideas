@@ -27,17 +27,39 @@ In the space below:
 
 ----------------------------------------------------------
 ### ERD
-
+Need help with it, have some confusion on relations. Will add after some clarification
 ----------------------------------------------------------
 ### User Stories
 1. I should be able to search for a drink by name, or ingredient.
 2. I want to be able to save my favorite drinks to a list, and be able to access them later.
 3. I should be able to talk to other people about how they perfected their drink. 
 4. I need to be able to ask others for help from other alcoholics because I don't know how to do basic trial and error without getting drunk from constantly tasting it.
-5. Since I lost my job due to the pandemic, I want there to be some sort of fun " random drink of the day" thing on this website that will choose a drink randomly.
+5. Since I lost my job due to the pandemic, I want there to be some sort of fun " random drink of the day" thing to cheer me up on this website that will choose a drink randomly.
+6. If I have a drink I want to share with the world, I want to be able to add it!
 
 ----------------------------------------------------------
 ### Wireframes
+
+### Loginpage:
+![LoginPage] (https://imgur.com/7mk0WyU)
+
+### Signup Page:
+![SignupPage] (https://imgur.com/sCYOYfk)
+
+### Homepage:
+![Homepage] (https://imgur.com/uOpUJtT)
+
+### Search Result Page:
+![SearchResult] (https://imgur.com/Zqiu4MH)
+
+### Make a Drink:
+![MakeADrink] (https://imgur.com/vfusHkC)
+
+### Forum:
+![Forum] (https://imgur.com/JWCUHTt)
+
+### Favorites:
+![Favorites] (https://imgur.com/lxc1eYS)
 
 ----------------------------------------------------------
 
