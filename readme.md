@@ -43,10 +43,16 @@ In the space below:
 
 ----------------------------------------------------------
 ### ERD
+https://lucid.app/invitations/accept/1a59e895-8d4d-474b-9423-26031671f0dd
 
 ----------------------------------------------------------
 ### User Stories
-
+    1. Who? 
+    A person who would like to listen to music by both known artists and lesser known artist who aren't avalible on typical music platforms.  Or simply listen to an array of music without a paid subscription with the ability of making playlists and collaborate with other users.
+    2. What? 
+    Listen to an array of music without a paid subscription with the ability of making playlists and collaborate with other users.
+    3. Why?
+    There are music listeners that don't want to pay for music and or want to listen to artists that are not found on typical streaming sites.    
 ----------------------------------------------------------
 ### Wireframes
 
