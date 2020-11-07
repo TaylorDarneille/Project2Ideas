@@ -12,7 +12,7 @@ In the space below:
 
 ----------------------------------------------------------
 ### ERD
-https://lucid.app/lucidchart/2eb5d2d4-0701-4b3b-9db1-70afdf47a500/edit?shared=true&page=0_0#
+https://lucid.app/invitations/accept/80be5777-b7ba-4c81-b365-6d504f5ce142
 ----------------------------------------------------------
 ### User Stories
 * If a user visits the website, they should first be routed to the login page. 
