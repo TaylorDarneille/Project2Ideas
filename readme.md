@@ -67,4 +67,10 @@ Need help with it, have some confusion on relations. Will add after some clarifi
 
 ----------------------------------------------------------
 
+### API Link
+
+https://rapidapi.com/thecocktaildb/api/the-cocktail-db
+
+----------------------------------------------------------
+
 Make a PR when you're done!
