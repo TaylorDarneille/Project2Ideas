@@ -9,7 +9,7 @@ Review the [Project 2 requirements](https://tmdarneille.gitbook.io/seirfx/11-pro
 In this space below, list **THREE** ideas for your Project 2. For each idea, include [user stories](https://revelry.co/user-stories-that-dont-suck/) for each idea and a link to the API(s) you want to use for it.
 
 --------------------------------------------------------
-1. 
+1. SuperSmash Directory
 2. 
 3.
 ---------------------------------------------------------
