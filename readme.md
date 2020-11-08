@@ -13,7 +13,7 @@ In the space below:
 ----------------------------------------------------------
 ### ERD
 
-[!Wireframe](Images/ERD.png)
+[!Wireframe](Images/ERD.png?raw=true "ERD")
 
 ----------------------------------------------------------
 ### User Stories
