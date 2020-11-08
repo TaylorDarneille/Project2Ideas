@@ -25,7 +25,7 @@ In the space below:
 
 ----------------------------------------------------------
 ### ERD
-![Image of ERD](https://i.imgur.com/weTjxR4.png)
+![Image of ERD](https://i.imgur.com/4DU8218.png)
 
 ----------------------------------------------------------
 ### User Stories
