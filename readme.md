@@ -41,7 +41,6 @@ https://lucid.app/invitations/accept/82d7c430-7c59-4802-8cd2-a6ffb0710618
 ----------------------------------------------------------
 
 ### APIs and other outside tech
-* Champions json file: http://ddragon.leagueoflegends.com/cdn/10.22.1/data/en_US/champion.json
-* https://developer.riotgames.com/docs/lol --> still trying to navigate through the docs for the actual api
+* http://smashlounge.com/api/chars/all
 
 Make a PR when you're done!
