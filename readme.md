@@ -13,14 +13,31 @@ In the space below:
 ----------------------------------------------------------
 ### ERD
 
+[!Wireframe](https://octodex.github.com/images/ERD.png)
+
 ----------------------------------------------------------
 ### User Stories
+
+1.
+2.
+3.
+4.
+5.
+6.
 
 ----------------------------------------------------------
 ### Wireframes
 
 ----------------------------------------------------------
 ### APIs and other outside tech
+
+Spotify API
+
+https://developer.spotify.com/documentation/web-api/
+
+Wrapper/Client for Spotify API
+
+https://github.com/thelinmichael/spotify-web-api-node
 
 ----------------------------------------------------------
 
