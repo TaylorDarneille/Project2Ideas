@@ -13,7 +13,7 @@ In the space below:
 ----------------------------------------------------------
 ### ERD
 
-[!Wireframe](https://github.com/billymoroney1/Project2Ideas/Images/ERD.png)
+[!Wireframe](Images/ERD.png)
 
 ----------------------------------------------------------
 ### User Stories
