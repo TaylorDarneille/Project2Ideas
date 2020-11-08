@@ -13,7 +13,7 @@ In the space below:
 ----------------------------------------------------------
 ### ERD
 
-[!Wireframe](https://octodex.github.com/images/ERD.png)
+[!Wireframe](https://github.com/billymoroney1/Project2Ideas/Images/ERD.png)
 
 ----------------------------------------------------------
 ### User Stories
