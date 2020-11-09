@@ -12,7 +12,7 @@ In the space below:
 ----------------------------------------------------------
 ### ERD
 
-[Link to ERD](https://lucid.app/invitations/accept/6d6f90d3-2704-4929-b4cc-7a9668cc0e19)
+![ERD](./project2-ERD.png)
 ----------------------------------------------------------
 ### User Stories
 * As a user, I want to be able to search for food and cocktail recipes
