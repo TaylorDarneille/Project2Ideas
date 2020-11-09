@@ -41,6 +41,6 @@ https://lucid.app/invitations/accept/82d7c430-7c59-4802-8cd2-a6ffb0710618
 ----------------------------------------------------------
 
 ### APIs and other outside tech
-* http://smashlounge.com/api/chars/all
+* https://api.kuroganehammer.com/api/characters
 
 Make a PR when you're done!
