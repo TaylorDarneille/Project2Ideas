@@ -8,7 +8,7 @@
 
 ### ERD
 
-https://lucid.app/invitations/accept/2a7a0493-e071-41aa-9ab7-b5fec523216f
+https://lucid.app/invitations/accept/30a157e9-5633-4b7f-808d-9c88179f2448
 
 ---
 
