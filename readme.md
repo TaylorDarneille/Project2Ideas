@@ -18,15 +18,20 @@ In the space below:
 ----------------------------------------------------------
 ### User Stories
 
-1.
-2.
-3.
-4.
-5.
-6.
+1. I want to search for music by either album or artist
+2. I want to click on a saved album to view detailed metadata
+3. I want to see a list of results for my search
+4. I want to add albums to my library with one click
+5. I want to view my library
+6. I want to delete albums from my library with one click
+7. When viewing an individual album's data, I want to add a song to a playlist with one click. I want to be able to choose from a playlist I have created or create a new one as I add song
+8. I want to view playlists
+9. I want to edit playlist names
 
 ----------------------------------------------------------
 ### Wireframes
+
+
 
 ----------------------------------------------------------
 ### APIs and other outside tech
