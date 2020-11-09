@@ -13,7 +13,7 @@ In the space below:
 ----------------------------------------------------------
 ### ERD
 
-[!Wireframe](Images/ERD.png?raw=true "ERD")
+![Wireframe](Images/ERD.png?raw=true "ERD")
 
 ----------------------------------------------------------
 ### User Stories
@@ -31,7 +31,7 @@ In the space below:
 ----------------------------------------------------------
 ### Wireframes
 
-
+![Wireframe](Images/Wireframe.png?raw=true "Wireframe")
 
 ----------------------------------------------------------
 ### APIs and other outside tech
