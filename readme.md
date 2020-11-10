@@ -41,6 +41,9 @@ As a user I want to be able to:
 ### Wireframes
 https://www.dropbox.com/sh/si7oueb2qsbawn6/AABdxNCOjBs6R4aJ9gutQsKha?dl=0
 
+### Logo Files
+https://www.dropbox.com/home/GA%20Project%202/CurrencyDesk%20Logo
+
 ----------------------------------------------------------
 
 Make a PR when you're done!
