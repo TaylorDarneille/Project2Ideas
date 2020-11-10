@@ -27,7 +27,7 @@ In the space below:
 
 ----------------------------------------------------------
 ### ERD
-
+https://lucid.app/lucidchart/7e3d8f3e-f4c8-4042-bce9-8d3bd51b89c9/edit?page=0_0#?folder_id=home&browser=icon
 
 ----------------------------------------------------------
 ### User Stories
