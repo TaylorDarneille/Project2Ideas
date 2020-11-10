@@ -28,8 +28,14 @@ In the space below:
 ----------------------------------------------------------
 ### ERD
 
+
 ----------------------------------------------------------
 ### User Stories
+As a user I want to be able to:
+
+1. Create an account on CurrencyDesk and search through 50+ different countries and their currency's exchange rate from USD (U.S. Dollars)
+2. Select a currency & country and view the exchange rate from USD to the currency of the country I am traveling to.
+3. Save different countrie's currencys to a favorites page so that I can view them later for when I travel to that country.
 
 ----------------------------------------------------------
 ### Wireframes
