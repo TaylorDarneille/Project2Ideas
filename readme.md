@@ -39,8 +39,10 @@ As a user I want to be able to:
 
 ----------------------------------------------------------
 ### Wireframes
+
 BEGINNING: https://www.dropbox.com/sh/si7oueb2qsbawn6/AABdxNCOjBs6R4aJ9gutQsKha?dl=0
-ADVANCES: https://www.figma.com/file/ApGw5R9zXn2JlfNkOw05Ms/Project-2-Wire-Frame?node-id=0%3A1
+
+ADVANCED: https://www.figma.com/file/ApGw5R9zXn2JlfNkOw05Ms/Project-2-Wire-Frame?node-id=0%3A1
 
 ### Logo Files
 https://www.dropbox.com/home/GA%20Project%202/CurrencyDesk%20Logo
