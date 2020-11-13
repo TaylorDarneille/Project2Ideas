@@ -16,8 +16,6 @@ I did find one API though where I think might be appropriate for it. So this app
 
 The idea is mainly to have a guide be able to make the cocktail, but there will also be a way to save your favorites, and there will be a forum of some sort where EDIT/DELETE will come into play for those who maybe want to leave a review about the drink, or need help from someone because somehow they don't know how to measure properly to make a perfect drink.
 
-Also if you've experimented enough with different ingredients and made a signature drink of your own, you should be able to add it to the database!
-
 ----------------------------------------------------------
 ### ERD
 
