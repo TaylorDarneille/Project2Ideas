@@ -29,7 +29,6 @@ Also if you've experimented enough with different ingredients and made a signatu
 3. I should be able to talk to other people about how they perfected their drink. 
 4. I need to be able to ask others for help from other alcoholics because I don't know how to do basic trial and error without getting drunk from constantly tasting it.
 5. Since I lost my job due to the pandemic, I want there to be some sort of fun " random drink of the day" mechanism to cheer me up on this website that will choose a drink randomly while I sit at home.
-6. If I have a drink I want to share with the world, I want to be able to add it!
 ----------------------------------------------------------
 ### Wireframes
 
@@ -47,9 +46,6 @@ Also if you've experimented enough with different ingredients and made a signatu
 ### Search Result Page:
 ![SearchResult] (https://imgur.com/Zqiu4MH)
 
-### Make a Drink:
-![MakeADrink] (https://imgur.com/vfusHkC)
-
 ### Forum:
 ![Forum] (https://imgur.com/JWCUHTt)
 
@@ -59,7 +55,7 @@ Also if you've experimented enough with different ingredients and made a signatu
 ----------------------------------------------------------
 ### APIs and other outside tech
 
-https://rapidapi.com/thecocktaildb/api/the-cocktail-db
+https://www.thecocktaildb.com/api.php
 ----------------------------------------------------------
 
 Make a PR when you're done and title it with your pod person's name and yours (eg. "Edward<-->Taylor")!
