@@ -26,7 +26,6 @@ The idea is mainly to have a guide be able to make the cocktail, but there will 
 2. I want to be able to save my favorite drinks to a list, and be able to access them later.
 3. I should be able to talk to other people about how they perfected their drink. 
 4. I need to be able to ask others for help from other alcoholics because I don't know how to do basic trial and error without getting drunk from constantly tasting it.
-5. Since I lost my job due to the pandemic, I want there to be some sort of fun " random drink of the day" mechanism to cheer me up on this website that will choose a drink randomly while I sit at home.
 ----------------------------------------------------------
 ### Wireframes
 
