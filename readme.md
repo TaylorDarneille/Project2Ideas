@@ -8,16 +8,6 @@ Review the [Project 2 requirements](https://tmdarneille.gitbook.io/seirfx/11-pro
 
 In this space below, list **THREE** ideas for your Project 2. For each idea, include [user stories](https://revelry.co/user-stories-that-dont-suck/) for each idea and a link to the API(s) you want to use for it.
 
---------------------------------------------------------
-1. 
-2. 
-3.
----------------------------------------------------------
-
-Make a PR when you're done!
-
----
-
 ## Part 2
 
 In the space below:
@@ -27,10 +17,16 @@ In the space below:
 
 ----------------------------------------------------------
 ### ERD
+https://lucid.app/invitations/accept/1a59e895-8d4d-474b-9423-26031671f0dd
 
 ----------------------------------------------------------
 ### User Stories
-
+    1. Who? 
+    A person who would like to learn about countries.
+    2. What? 
+    access a bunch of info about countries 
+    3. Why?
+    They are curious about countries    
 ----------------------------------------------------------
 ### Wireframes
 
